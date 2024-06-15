@@ -27,3 +27,6 @@ run/
 # custom stuff
 
 decompiled/
+
+# direnv
+.direnv/
